@@ -9,7 +9,6 @@
             "status":"Rent",
             "location":"Gaza",
             "room": 5,
-            "photo": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Mzc0NDd8MHwxfHNlYXJjaHw1OXx8aG91c2V8ZW58MHx8fHwxNjkyMDI3MTE0fDA&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
             
             
           },
@@ -23,7 +22,6 @@
             "status":"Rent",
             "location":"Gaza",
             "room": 4,
-            "photo": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Mzc0NDd8MHwxfHNlYXJjaHw4fHxob3VzZXxlbnwwfHx8fDE2OTIwMTg1NjZ8MA&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
           },
 
 
@@ -38,7 +36,6 @@
             "location":"Gaza",
             "room": 4,
 
-            "photo": "https://images.unsplash.com/photo-1448630360428-65456885c650?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Mzc0NDd8MHwxfHNlYXJjaHwyM3x8aG91c2V8ZW58MHx8fHwxNjkyMDE4NTY2fDA&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
           },
 
 
@@ -52,7 +49,6 @@
             "status":"Rent",
             "location":"Gaza",
             "room": 3,
-            "photo": "https://images.unsplash.com/photo-1613977257365-aaae5a9817ff?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Mzc0NDd8MHwxfHNlYXJjaHwzNXx8aG91c2V8ZW58MHx8fHwxNjkyMDI3MTE0fDA&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
           },
           {
             "id":5,
@@ -63,7 +59,6 @@
             "status":"Rent",
             "location":"Gaza",
             "room": 3,
-            "photo": "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Mzc0NDd8MHwxfHNlYXJjaHw1MXx8aG91c2V8ZW58MHx8fHwxNjkyMDI3MTE0fDA&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
           },
           {
             "id":6,
@@ -74,7 +69,6 @@
             "status":"Rent",
             "location":"Gaza",
             "room": 3,
-            "photo": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Mzc0NDd8MHwxfHNlYXJjaHw2fHxob3VzZXxlbnwwfHx8fDE2OTIwMTg1NjZ8MA&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
           }
 
 
