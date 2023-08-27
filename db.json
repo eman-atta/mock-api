@@ -2,9 +2,9 @@
     "house":[
         {
             "id":1,
-            "title": "Luxury & Modern  Apartment 1",
+            "title": "Luxury & Modern  ",
             "price": 800,
-            "bedroom": 4,
+            "bedroom": 5,
             "bathroom": 2,
             "description":"",
             "type":"Apartment",
@@ -20,9 +20,9 @@
 
           {
             "id":2,
-            "title": "villa In luis Park Apartment 2",
+            "title": "villa In luis Park ",
             "price": 1200,
-            "bedroom": 4,
+            "bedroom": 3,
             "bathroom": 2,
             "description":"",
             "type":"Apartment",
@@ -36,8 +36,8 @@
 
           {
             "id":3,
-            "title": "Condo For Sale Apartment 3",
-            "price": 800,
+            "title": "Condo For Sale ",
+            "price": 200,
             "bedroom": 4,
             "bathroom": 2,
             "description":"",
@@ -53,9 +53,9 @@
 
           {
             "id":4,
-            "title": "South Sun House Apartment 4",
+            "title": "South Sun House",
             "price": 800,
-            "bedroom": 4,
+            "bedroom": 2,
             "bathroom": 2,
             "description":"",
             "type":"Apartment",
@@ -68,9 +68,9 @@
           },
           {
             "id":5,
-            "title": "Park House Apartment 4",
-            "price": 1000,
-            "bedroom": 2,
+            "title": "Park House ",
+            "price": 100,
+            "bedroom": 3,
             "bathroom": 2,
             "description":"",
             "type":"Apartment",
@@ -82,9 +82,9 @@
           },
           {
             "id":6,
-            "title": "Wooden House Apartment 4",
+            "title": "Wooden House ",
             "price": 500,
-            "bedroom": 3,
+            "bedroom": 6,
             "bathroom": 1,
             "description":"",
             "type":"Apartment",
